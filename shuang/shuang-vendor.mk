@@ -244,10 +244,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/shuang/proprietary/vendor/lib/libwvdrm_L3.so:system/vendor/lib/libwvdrm_L3.so \
     vendor/sony/shuang/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
     vendor/sony/shuang/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
-    vendor/sony/shuang/proprietary/vendor/lib/soundfx/libldnhncr.so:system/vendor/lib/soundfx/libldnhncr.so \
     vendor/sony/shuang/proprietary/vendor/lib/soundfx/libqcbassboost.so:system/vendor/lib/soundfx/libqcbassboost.so \
-    vendor/sony/shuang/proprietary/vendor/lib/soundfx/libqcomvisualizer.so:system/vendor/lib/soundfx/libqcomvisualizer.so \
-    vendor/sony/shuang/proprietary/vendor/lib/soundfx/libqcomvoiceprocessing.so:system/vendor/lib/soundfx/libqcomvoiceprocessing.so \
     vendor/sony/shuang/proprietary/vendor/lib/soundfx/libqcreverb.so:system/vendor/lib/soundfx/libqcreverb.so \
     vendor/sony/shuang/proprietary/vendor/lib/soundfx/libqcvirt.so:system/vendor/lib/soundfx/libqcvirt.so \
     vendor/sony/shuang/proprietary/vendor/lib/surround_sound_headers.so:system/vendor/lib/surround_sound_headers.so
